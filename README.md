@@ -1,7 +1,7 @@
 # Demo Repo
 
-Describing this demo
+Exploring random ideas with languages, libraries, etc. Not serious
 
-## Subheader
+### Markdown
 
 More text
